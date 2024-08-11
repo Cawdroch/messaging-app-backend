@@ -11,8 +11,10 @@
   "author": "Chris Cawdron",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "mongoose": "^5.13.22",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "pusher": "^5.2.0"
   }
 }
